@@ -227,7 +227,7 @@ $("#save-delete17").on("click", "i.fa-save", function () {
 // End save event functions
 
 
-// This function runs but the time is never refreshed?
+// This function runs but the time is never refreshed
 setInterval(function () {
     $(".event-group .events").each(function (index, el) {
         auditTime(el);
