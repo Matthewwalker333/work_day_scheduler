@@ -4,4 +4,11 @@
 
 ![Screenshot](hw5-1-screenshot.PNG)
 
-### This calendar software for planning your workday was created to help me improve my abilities using third-party APIs. To make a Work Day Scheduler, this project uses Bootstrap, jQuery, and moment.js.
+### This calendar software for planning your workday was created to help me improve my abilities using third-party APIs.
+> Developer tools used to make the workday scheduler:
+> -HTML
+> -CSS styling
+> -Javascript
+> -Bootstrap
+> -jQuery
+> -moment.js
