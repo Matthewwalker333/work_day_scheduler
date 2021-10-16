@@ -1,9 +1,10 @@
+/* fomatting for the main body of the content */
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
   }
-  
+  /* text styling for good text contrast */
   textarea{
     background: transparent;
     border: none;
@@ -74,6 +75,7 @@ body {
   .save-delete i.fa-save{
     font-size: 30px;
   }
+  /* highlighting the save button hovering over the icon */
   .save-delete i.fa-save:hover {
     font-size: 30px;
     color: #000000;
@@ -83,6 +85,7 @@ body {
     font-size: 18px;
     padding-left: 8px;
   }
+  /* highlighting the delete button hovering over the icon */
   .save-delete i.fa-trash:hover {
     font-size: 18px;
     color: #ff0000b9;
